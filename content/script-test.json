@@ -1,0 +1,10 @@
+[
+  {
+    "text": "Hello, I am your friendly AI at your service.",
+    "sound": ".\\content\\wav\\01.wav"
+  },
+  {
+    "text": "I am pleased to meet you.",
+    "sound": ".\\content\\wav\\02.wav"
+  }
+]
